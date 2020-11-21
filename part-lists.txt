@@ -1,0 +1,62 @@
+Motedis Pad Base Assembly - https://www.motedis.com/shop/create_offers_kit.php?oID=30739 :
+40x80L I-Type Slot 8 x 929mm (2 of)
+40x80L I-Type Slot 8 x 849mm (4 of)
+40x40L I-Type Slot 8 x 849mm (2 of)
+Connector Plate Double 156x78x5 (8 of)
+Bracket 40 I-Type Slot 8 (4 of)
+Adjustable leveling foot P30-B-Type (4 of)
+Cover Caps 40x80 I-Type Slot 8 (4 of)
+M8 x 12mm Screw (DIN 7380) (18 of) [Attaches Circuit Boards to Pad]
+M8 x 16mm Screw (DIN 7380) (76 of) [Assembles Pad Base and Some 3D Printed Parts]
+M8 x 25mm Screw (Din 7380) (36 of) [Attaches 3D Printed Panel Interfaces to Pad]
+T-nut Guided I-type Slot M8 (134 of)
+
+Motedis Bar Assembly - https://www.motedis.com/shop/create_offers_kit.php?oID=30740 :
+40x40L I-Type Slot 8 x 1000mm (2 of)
+Profil 8 D40 3N x 769mm (1 of)
+Bracket 40x80 I-Type Slot 8 (4 of)
+T-Nut Guided I-Type Slot M8 (20 of)
+M8 x 16mm screw (DIN 7380) (20 of)
+Connector plate 74x34x5, Laser cut, series 40 (2 of)
+Cover Cap 40x40 I-Type Slot 8 (2 of)
+
+Motedis Doubles Assembly - https://www.motedis.com/shop/create_offers_kit.php?oID=30741 : 
+Connector Plate Double 156x78x5 (2 of) 
+M8 x 16mm Screw (DIN 7380) (8 of)
+T-nut Guided I-Type Slot M8 (8 of)
+
+Circuit Boards:
+Panel Circuit Board (4 of)
+I/O Circuit Board (1 of)
+
+Panel Interfaces:
+GML670 50kg Load Cell Sensors with PH2.0 Connectors (16 of)
+Sensor Base Standoff (16 of, 3D Printed)
+Sensor To Panel Adapter (16 of, 3D Printed)
+Component Holder Left (18 of, 3D Printed)
+Component Holder Right (18 of, 3D Printed)
+Base To Panel Adapter [6mm if Aluminium Panels, 12mm if Acrylic] (20 of, 3D Printed)
+Adhesive Velcro Discs [Hook and Loop] 22mm (36 of)
+
+Panels:
+280 x 280 x 12mm Acrylic Sheet Panel (4 of)
+[[[
+280 x 280 x 12mm Acrylic Sheet Panel (5 of)
+OR
+280 x 280 x 6mm Aluminium Sheet Panel (5 of)
+]]]
+
+Cables:
+Cable Tensioner (2 of, 3D Printed)
+USB 2.0 A to B 1.8M cable (1 of)
+24V 5A Power Supply (1 of)
+RJ45 Ethernet Cable 1m (4 of)
+DC Jack 5.5mm x 2.1mm Male to Male 1m Cable (4 of)
+Cable Ties 300mm (10 of)
+
+Assembly Spacers:
+Velcro Spacer (1 of, 3D Printed)
+Strut Spacer (1 of, 3D Printed)
+Holder Spacer (1 of, 3D Printed)
+Panel Spacer 1.5mm (2 of, 3D Printed)
+Panel Spacer 3mm (2 of, 3D Printed)
