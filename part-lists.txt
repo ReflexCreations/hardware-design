@@ -49,7 +49,7 @@ OR
 Cables:
 Cable Tensioner (2 of, 3D Printed)
 USB 2.0 A to B 1.8M cable (1 of)
-24V 5A Power Supply (1 of)
+24V 5A Power Supply with DC Jack 5.5mm x 2.1mm Connector (1 of)
 RJ45 Ethernet Cable 1m (4 of)
 DC Jack 5.5mm x 2.1mm Male to Male 1m Cable (4 of)
 Cable Ties 300mm (10 of)
