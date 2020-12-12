@@ -6,7 +6,7 @@ In this repository you will find:
 - A folder of parts to be 3D printed in PLA.
 - Parts lists for building a pad, bar, and doubles connectors. Currently this only lists the European vendor 'Motedis' parts for the base frame. It can be replicated with similar parts from 8020 and other vendors.
 
-![](images/cad-model.png?raw=true "CAD Pad")
+![](https://raw.githubusercontent.com/ReflexCreations/hardware-design/master/images/cad-model.PNG?raw=true "CAD Pad")
 
 ## Getting your own
 
