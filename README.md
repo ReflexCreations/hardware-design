@@ -31,6 +31,10 @@ The following changes could help in the future to provide for a better project:
 - Switching the sources to FreeCAD would be a huge improvement.
 - Other panel format CAD specifications. SMX, Pump, RH, and Technomotion formats would be great.
 - A 'travel pad' fork of this project. Utilizing less parts in a much smaller form factor could make this a more accessible project to those not looking to spend a small fortune.
+- 3D printing these parts takes significant time (several days). Building out a reliable source of parts that are mass-produced would make this more accessible. If you'd like to sell parts, feel free to get in touch.
+- Panels are also a bit more difficult to source. Having a reliable seller of finished aluminium/acrylic panels built to specification for this project would make this more accessible.
+- Some parts would be nice to have in a sold kit form. The load cell sensors, velcro dots, cables, cable ties and power supply are all extra parts that require a bit of internet sleuthing to get ahold of.
+- Finding a reliable source for a comfortable bar cover would be nice. We use a 40mm inner diameter foam insulation, which is nice, but a little difficult to source.
 
 ## License
 
