@@ -35,6 +35,7 @@ The following changes could help in the future to provide for a better project:
 - Panels are also a bit more difficult to source. Having a reliable seller of finished aluminium/acrylic panels built to specification for this project would make this more accessible.
 - Some parts would be nice to have in a sold kit form. The load cell sensors, velcro dots, cables, cable ties and power supply are all extra parts that require a bit of internet sleuthing to get ahold of.
 - Finding a reliable source for a comfortable bar cover would be nice. We use a 40mm inner diameter foam insulation, which is nice, but a little difficult to source.
+- One issue by experimentation is that the sensors don't have the same response to equal mass (seemingly 0.7-1.3 range of certainty). This isn't necessarily a problem, but is worthy of investigation nonetheless. It's likely due to the way the panel to sensor standoffs are implemented, which a redesign may rectify. If not, we would be able to calibrate the sensors in the software utility. 
 
 ## License
 
